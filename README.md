@@ -17,3 +17,18 @@ or
 npm install
 npm start
 ```
+
+   
+   
+## Publish on Expo
+Open it in the Expo app on your phone to view it.
+more info [here](https://docs.expo.io/versions/latest/guides/publishing.html)
+
+This project war bootstrapped with [create react native app](https://github.com/react-community/create-react-native-app)
+
+##  Contributing
+
+Submit a Pull request so that I can review your changes
+
+## License
+MIT

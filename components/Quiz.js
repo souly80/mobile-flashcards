@@ -19,7 +19,7 @@ class Quiz extends Component {
     const questions = this.props.decks[deckId].questions;
     let { score, index, done } = this.state;
 
-    score = correct ? score + 1 : score;
+    score = correct ? score++ : score;
     index++;
     done = index === questions.length;
     this.setState({ index, score, done });
